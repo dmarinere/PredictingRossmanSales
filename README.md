@@ -1,4 +1,4 @@
-# PredictingRossmanSales
+# Predicting Rossman Sales
 
 
 ## Pharmaceutical Sales prediction across multiple Rossmann Stores
