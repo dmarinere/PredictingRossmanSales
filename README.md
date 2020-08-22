@@ -16,7 +16,7 @@ personal judgement to forecast sales.
 
 1. Do an exploratory data Analysis
 2. Create a Pipeline for Data Cleaning
-3. Build a model for using Pipelines
+3. Build a model using Pipelines to would enable easier deployment
 4. Deploy our model and predictions on a Dashboard
 
  ### Links
