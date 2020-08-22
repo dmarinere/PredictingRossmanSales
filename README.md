@@ -13,7 +13,8 @@ personal judgement to forecast sales.
 
 ### Goals
 
+
 1. Do an exploratory data Analysis
 2. Create a Pipeline for Data Cleaning
 3. Build a model for using Pipelines
-4. Deplooy our model and predictions on a Dashboard
+4. Deploy our model and predictions on a Dashboard
