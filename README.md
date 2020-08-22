@@ -21,5 +21,7 @@ personal judgement to forecast sales.
 
  ### Links
  
- link to my Exploratory data Analysis using [power BI](https://app.powerbi.com/groups/me/reports/1316f6e0-969a-485a-9937-59c8a009f081?ctid=9efab21d-2914-4e0c-a000-744349f8676a)
- link to ['dashboard'](https://ross-dashboard.herokuapp.com)
+Link to my Exploratory data Analysis using [power BI](https://app.powerbi.com/groups/me/reports/1316f6e0-969a-485a-9937-59c8a009f081?ctid=9efab21d-2914-4e0c-a000-744349f8676a)
+
+
+Link to [dashboard](https://ross-dashboard.herokuapp.com)
